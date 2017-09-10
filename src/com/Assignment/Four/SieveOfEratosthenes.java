@@ -1,15 +1,16 @@
 package com.Assignment.Four;
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class SieveOfEratosthenes {
 	
 	public static void main(String[] args) {
 	//get the max number to use for test
-	int N;
-	Scanner sc = new Scanner(System.in);
+	//int N;
+	//Scanner sc = new Scanner(System.in);
+	int N = 100;
 	System.out.print("Enter the max integer to check: ");
-	N = sc.nextInt();
-	sc.close();
+	//N = sc.nextInt();
+	//sc.close();
 	
 	//Placing numbers into an array and the true ones get denoted to prime
 	boolean[] isPrime = new boolean[N];
