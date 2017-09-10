@@ -36,5 +36,3 @@ public class SieveOfEratosthenes {
 		}
 	}
 }
-//Demonstration that the pipeline can fail if forced by faulty 
-//Ant build targets.
