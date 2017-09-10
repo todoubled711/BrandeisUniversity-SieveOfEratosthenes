@@ -36,4 +36,3 @@ public class SieveOfEratosthenes {
 		}
 	}
 }
-//test
